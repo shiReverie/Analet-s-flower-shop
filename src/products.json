@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pink French Rose",
+      "price": 6,
+      "cover": "/test1.png"
+    },
+    {
+      "id": 2,
+      "name": "Rosa Chiaro Pastello Artic Poppy",
+      "price": 7,
+      "cover": "/test2.png"
+    },
+    {
+      "id": 3,
+      "name": "Red F1 Sunflower",
+      "price": 4,
+      "cover": "/test3.png"
+    },
+    {
+      "id": 4,
+      "name": "Snapdragon Appleblossom",
+      "price": 5,
+      "cover": "/test4.png"
+    },
+    {
+      "id": 5,
+      "name": "Chinese Mystic Blue Forget-Me-Not",
+      "price": 3,
+      "cover": "/test5.png"
+    }
+  ]
+}

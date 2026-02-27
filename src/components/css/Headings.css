@@ -1,0 +1,89 @@
+.lightText {
+    font-family: Gabriola;
+    color: #f7f3f5;
+}
+
+.lightSubText {
+    font-family: 'Microsoft Yi Baiti';
+    color: #f7f3f5;
+}
+
+.darkSubText {
+    font-family: 'Microsoft Yi Baiti';
+    color: #df87b5;
+}
+
+.lightSymbols {
+    color: #f7f3f5;
+    font-family: 'Segoe UI Emoji';
+}
+
+.s75 {
+    font-size: 75px;
+}
+
+.s150 {
+    font-size: 150px;
+}
+
+.s40 {
+    font-size: 40px;
+}
+
+.s50 {
+    font-size: 50px;
+}
+
+.s30 {
+    font-size: 30px;
+}
+
+.s20 {
+    font-size: 20px;
+}
+
+.pr20 {
+
+    padding-right: 20px;
+
+}
+
+.underscore {
+    text-decoration: underline;
+}
+
+.left {
+text-align:start;
+padding-left: 10px;
+margin: 0;
+}
+
+@media (max-width: 768px) {
+    .s150 {
+        font-size: 80px;
+    }
+
+    .s75 {
+        font-size: 50px;
+    }
+
+    .s50 {
+        font-size: 36px;
+    }
+
+    .s40 {
+        font-size: 28px;
+    }
+
+    .s30 {
+        font-size: 22px;
+    }
+
+    .s20 {
+        font-size: 16px;
+    }
+
+    .pr20 {
+        padding-right: 10px;
+    }
+}

@@ -1,0 +1,23 @@
+.r7 {
+    border:none;
+    border-radius:7px;
+}
+
+.darkPink {
+    background-color: #df87b5;
+}
+
+.p10 {
+    padding:10px;
+}
+
+@media (max-width: 480px) {
+    .r7 {
+        border-radius: 4px;
+    }
+
+    .p10 {
+        padding: 6px;
+        font-size: 14px;
+    }
+}

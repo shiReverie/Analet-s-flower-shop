@@ -1,0 +1,46 @@
+.navHome{
+    white-space: nowrap;
+    position: absolute;
+    top: 5%;
+    right: 15%;
+    z-index: 999;
+}
+
+.navAll {
+    white-space: nowrap;
+    z-index: 999 !important;
+    position:absolute;
+    right:3%;
+    top:0;
+}
+
+.noHeader {
+    display: none !important;
+}
+
+.headerVis {
+    z-index:1;
+}
+
+@media (max-width: 768px) {
+    .navHome {
+        position: fixed;
+        top: 10px;
+        left: 50%;
+        transform: translateX(-50%); 
+        right: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        z-index: 1000;
+        padding: 10px 20px;
+        border-radius: 10px;
+    }
+
+        .navHome a {
+            font-size: 32px !important;
+            padding: 5px 10px !important;
+        }
+}

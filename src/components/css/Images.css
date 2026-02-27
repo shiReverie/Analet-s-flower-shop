@@ -1,0 +1,26 @@
+.cardImg {
+    width: 90%;
+    height: 50%;
+    border: none;
+    border-radius: 7px;
+    object-fit: cover;
+}
+
+.cartItemImg {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+    .cardImg {
+        height: 40%;
+        width: 95%;
+    }
+
+    .cartItemImg {
+        width: 150px;
+        height: 80px;
+    }
+}

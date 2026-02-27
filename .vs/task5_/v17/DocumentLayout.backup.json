@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\5\\source\\repos\\task5_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\animations.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\animations.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\bannerherocss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\bannerherocss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\buttons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\buttons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\containers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\containers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\headings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\headings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\images.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\images.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\bannerhero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\bannerhero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\cardlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\cardlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\search.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\search.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\pages\\shoppage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\pages\\shoppage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\pages\\cartpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\pages\\cartpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\pages\\mainpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\pages\\mainpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animations.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Animations.css",
+              "RelativeDocumentMoniker": "src\\components\\css\\Animations.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Animations.css",
+              "RelativeToolTip": "src\\components\\css\\Animations.css",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvx4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T13:28:08.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Cart.css",
+              "RelativeDocumentMoniker": "src\\components\\css\\Cart.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Cart.css",
+              "RelativeToolTip": "src\\components\\css\\Cart.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T13:19:38.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T13:17:27.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buttons.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Buttons.css",
+              "RelativeDocumentMoniker": "src\\components\\css\\Buttons.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Buttons.css",
+              "RelativeToolTip": "src\\components\\css\\Buttons.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T13:17:18.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BannerHeroCss.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\BannerHeroCss.css",
+              "RelativeDocumentMoniker": "src\\components\\css\\BannerHeroCss.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\BannerHeroCss.css",
+              "RelativeToolTip": "src\\components\\css\\BannerHeroCss.css",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvyAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T13:15:54.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Headings.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Headings.css",
+              "RelativeDocumentMoniker": "src\\components\\css\\Headings.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Headings.css",
+              "RelativeToolTip": "src\\components\\css\\Headings.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T13:15:20.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Images.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Images.css",
+              "RelativeDocumentMoniker": "src\\components\\css\\Images.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Images.css",
+              "RelativeToolTip": "src\\components\\css\\Images.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T13:14:51.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "webpack.config.js",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\webpack.config.js",
+              "RelativeDocumentMoniker": "webpack.config.js",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\webpack.config.js",
+              "RelativeToolTip": "webpack.config.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-27T13:05:21.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\Header.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Header.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\Header.jsx",
+              "RelativeToolTip": "src\\components\\Header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T12:36:17.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Containers.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Containers.css",
+              "RelativeDocumentMoniker": "src\\components\\css\\Containers.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Containers.css",
+              "RelativeToolTip": "src\\components\\css\\Containers.css",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwv2oAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T12:36:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "store.js",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\store.js",
+              "RelativeDocumentMoniker": "src\\store.js",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\store.js",
+              "RelativeToolTip": "src\\store.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-27T13:03:23.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BannerHero.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\BannerHero.jsx",
+              "RelativeDocumentMoniker": "src\\components\\BannerHero.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\BannerHero.jsx",
+              "RelativeToolTip": "src\\components\\BannerHero.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T13:02:30.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopPage.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\pages\\ShopPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\ShopPage.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\pages\\ShopPage.jsx",
+              "RelativeToolTip": "src\\pages\\ShopPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T13:02:07.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainPage.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\pages\\MainPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\MainPage.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\pages\\MainPage.jsx",
+              "RelativeToolTip": "src\\pages\\MainPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T13:02:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Search.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\Search.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Search.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\Search.jsx",
+              "RelativeToolTip": "src\\components\\Search.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T13:01:52.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CardList.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\CardList.jsx",
+              "RelativeDocumentMoniker": "src\\components\\CardList.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\CardList.jsx",
+              "RelativeToolTip": "src\\components\\CardList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T13:01:43.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-27T12:59:44.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T12:55:31.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartPage.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\pages\\CartPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\CartPage.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\pages\\CartPage.jsx",
+              "RelativeToolTip": "src\\pages\\CartPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-27T12:37:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-23T15:57:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-23T15:56:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Card.jsx",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\Card.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Card.jsx",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\Card.jsx",
+              "RelativeToolTip": "src\\components\\Card.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-25T08:02:03.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

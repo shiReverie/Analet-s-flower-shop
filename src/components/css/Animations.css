@@ -1,0 +1,37 @@
+.zoomin {
+    display: inline-block;
+    transition: ease-out 0.1s;
+}
+
+    .zoomin:hover {
+        transform: scale(1.1);
+    }
+
+.changecolor {
+    transition: ease-out 0.1s;
+}
+
+.changecolor:hover {
+    background-color: #ca478b;
+}
+
+@media (hover: none) {
+    .zoomin:active {
+        transform: scale(0.95);
+    }
+}
+
+.zoomin:active {
+    transform: scale(0.95);
+}
+
+@media (hover: none) {
+    .changecolor:active {
+        background-color: #ca478b;
+        transform: scale(0.98);
+    }
+}
+
+.changecolor:active {
+    background-color: #ca478b;
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonName Condition="$(PackageJsonName) == ''">task5_</PackageJsonName>
+    <PackageJsonPrivate Condition="$(PackageJsonPrivate) == ''">true</PackageJsonPrivate>
+    <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">0.0.0</PackageJsonVersion>
+    <PackageJsonType Condition="$(PackageJsonType) == ''">module</PackageJsonType>
+    <PackageJsonScriptsDev Condition="$(PackageJsonScriptsDev) == ''">webpack serve --mode development</PackageJsonScriptsDev>
+    <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">webpack --mode production</PackageJsonScriptsBuild>
+    <PackageJsonScriptsPreview Condition="$(PackageJsonScriptsPreview) == ''">npx serve dist</PackageJsonScriptsPreview>
+    <PackageJsonBabelPresets Condition="$(PackageJsonBabelPresets) == ''">[
+  "@babel/preset-env",
+  [
+    "@babel/preset-react",
+    {
+      "runtime": "automatic"
+    }
+  ]
+]</PackageJsonBabelPresets>
+    <PackageJsonDependenciesReduxjsToolkit Condition="$(PackageJsonDependenciesReduxjsToolkit) == ''">^2.11.2</PackageJsonDependenciesReduxjsToolkit>
+    <PackageJsonDependenciesDummyJson Condition="$(PackageJsonDependenciesDummyJson) == ''">^3.0.5</PackageJsonDependenciesDummyJson>
+    <PackageJsonDependenciesReact Condition="$(PackageJsonDependenciesReact) == ''">^19.2.0</PackageJsonDependenciesReact>
+    <PackageJsonDependenciesReactDom Condition="$(PackageJsonDependenciesReactDom) == ''">^19.2.0</PackageJsonDependenciesReactDom>
+    <PackageJsonDependenciesReactRedux Condition="$(PackageJsonDependenciesReactRedux) == ''">^9.2.0</PackageJsonDependenciesReactRedux>
+    <PackageJsonDependenciesReactRouterDom Condition="$(PackageJsonDependenciesReactRouterDom) == ''">^7.13.0</PackageJsonDependenciesReactRouterDom>
+    <PackageJsonDevdependenciesBabelCore Condition="$(PackageJsonDevdependenciesBabelCore) == ''">^7.29.0</PackageJsonDevdependenciesBabelCore>
+    <PackageJsonDevdependenciesBabelPresetEnv Condition="$(PackageJsonDevdependenciesBabelPresetEnv) == ''">^7.29.0</PackageJsonDevdependenciesBabelPresetEnv>
+    <PackageJsonDevdependenciesBabelPresetReact Condition="$(PackageJsonDevdependenciesBabelPresetReact) == ''">^7.28.5</PackageJsonDevdependenciesBabelPresetReact>
+    <PackageJsonDevdependenciesEslintJs Condition="$(PackageJsonDevdependenciesEslintJs) == ''">^9.39.1</PackageJsonDevdependenciesEslintJs>
+    <PackageJsonDevdependenciesTypesReact Condition="$(PackageJsonDevdependenciesTypesReact) == ''">^19.2.7</PackageJsonDevdependenciesTypesReact>
+    <PackageJsonDevdependenciesTypesReactDom Condition="$(PackageJsonDevdependenciesTypesReactDom) == ''">^19.2.3</PackageJsonDevdependenciesTypesReactDom>
+    <PackageJsonDevdependenciesBabelLoader Condition="$(PackageJsonDevdependenciesBabelLoader) == ''">^10.0.0</PackageJsonDevdependenciesBabelLoader>
+    <PackageJsonDevdependenciesCssLoader Condition="$(PackageJsonDevdependenciesCssLoader) == ''">^7.1.4</PackageJsonDevdependenciesCssLoader>
+    <PackageJsonDevdependenciesEslint Condition="$(PackageJsonDevdependenciesEslint) == ''">^9.39.1</PackageJsonDevdependenciesEslint>
+    <PackageJsonDevdependenciesEslintPluginReactHooks Condition="$(PackageJsonDevdependenciesEslintPluginReactHooks) == ''">^7.0.1</PackageJsonDevdependenciesEslintPluginReactHooks>
+    <PackageJsonDevdependenciesEslintPluginReactRefresh Condition="$(PackageJsonDevdependenciesEslintPluginReactRefresh) == ''">^0.4.24</PackageJsonDevdependenciesEslintPluginReactRefresh>
+    <PackageJsonDevdependenciesGlobals Condition="$(PackageJsonDevdependenciesGlobals) == ''">^16.5.0</PackageJsonDevdependenciesGlobals>
+    <PackageJsonDevdependenciesHtmlWebpackPlugin Condition="$(PackageJsonDevdependenciesHtmlWebpackPlugin) == ''">^5.6.6</PackageJsonDevdependenciesHtmlWebpackPlugin>
+    <PackageJsonDevdependenciesStyleLoader Condition="$(PackageJsonDevdependenciesStyleLoader) == ''">^4.0.0</PackageJsonDevdependenciesStyleLoader>
+    <PackageJsonDevdependenciesWebpack Condition="$(PackageJsonDevdependenciesWebpack) == ''">^5.105.3</PackageJsonDevdependenciesWebpack>
+    <PackageJsonDevdependenciesWebpackCli Condition="$(PackageJsonDevdependenciesWebpackCli) == ''">^6.0.1</PackageJsonDevdependenciesWebpackCli>
+    <PackageJsonDevdependenciesWebpackDevServer Condition="$(PackageJsonDevdependenciesWebpackDevServer) == ''">^5.2.3</PackageJsonDevdependenciesWebpackDevServer>
+  </PropertyGroup>
+</Project>

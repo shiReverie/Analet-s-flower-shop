@@ -1,0 +1,12 @@
+.cartItemInfo {
+    flex: 1;
+}
+
+.cartTotal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f1daea;
+    border-radius: 10px;
+}
