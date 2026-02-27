@@ -1,16 +1,48 @@
-# React + Vite
+# Anale'ts flower shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Functionality
+- Navigation
+- Adding items to cart
+- Deleting specific item in cart
+- Clearing all cart
 
-Currently, two official plugins are available:
+## Dependecies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### General
+- `@reduxjs/toolkit` ^2.11.2
+- `dummy-json` ^3.0.5
+- `react` ^19.2.0
+- `react-dom` ^19.2.0
+- `react-redux` ^9.2.0
+- `react-router-dom` ^7.13.0
 
-## React Compiler
+### For developers
+- `@babel/core` ^7.29.0
+- `@babel/preset-env` ^7.29.0
+- `@babel/preset-react` ^7.28.5
+- `@eslint/js` ^9.39.1
+- `@types/react` ^19.2.7
+- `@types/react-dom` ^19.2.3
+- `babel-loader` ^10.0.0
+- `copy-webpack-plugin` ^13.0.1
+- `css-loader` ^7.1.4
+- `eslint` ^9.39.1
+- `eslint-plugin-react-hooks` ^7.0.1
+- `eslint-plugin-react-refresh` ^0.4.24
+- `globals` ^16.5.0
+- `html-webpack-plugin` ^5.6.6
+- `style-loader` ^4.0.0
+- `webpack` ^5.105.3
+- `webpack-cli` ^6.0.1
+- `webpack-dev-server` ^5.2.3
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Launching
+### Requirments
+- Node.js 18.x
+- npm 9.x
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Steps
+- git clone <link_to_repository>
+- cd <folder_name>
+- npm install
+- npm start
