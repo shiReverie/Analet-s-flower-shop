@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\5\\source\\repos\\task5_\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\containers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\containers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\containers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\containers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\headings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,20 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Animations.css",
-              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Animations.css",
-              "RelativeDocumentMoniker": "src\\components\\css\\Animations.css",
-              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Animations.css",
-              "RelativeToolTip": "src\\components\\css\\Animations.css",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvx4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T13:28:08.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Cart.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Cart.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Cart.css",
@@ -151,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Buttons.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Buttons.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Buttons.css",
@@ -163,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BannerHeroCss.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\BannerHeroCss.css",
               "RelativeDocumentMoniker": "src\\components\\css\\BannerHeroCss.css",
@@ -199,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "webpack.config.js",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\webpack.config.js",
               "RelativeDocumentMoniker": "webpack.config.js",
@@ -224,15 +211,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Containers.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Containers.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Containers.css",
               "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Containers.css",
               "RelativeToolTip": "src\\components\\css\\Containers.css",
-              "ViewState": "AgIAAGAAAAAAAAAAAADwv2oAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T12:36:28.125Z"
+              "WhenOpened": "2026-02-27T12:36:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animations.css",
+              "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Animations.css",
+              "RelativeDocumentMoniker": "src\\components\\css\\Animations.css",
+              "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Animations.css",
+              "RelativeToolTip": "src\\components\\css\\Animations.css",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvx4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T13:28:08.127Z"
             },
             {
               "$type": "Document",

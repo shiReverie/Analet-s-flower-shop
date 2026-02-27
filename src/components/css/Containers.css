@@ -1,5 +1,5 @@
 .bannerContainer {
-    background-image: url('../../assets/heromodifiedlanding.png');
+    background-image: url('../../assets/heroModifiedLanding.png');
     border-radius: 25px;
     width: 1190px;
     height: 680px;
@@ -33,7 +33,7 @@
 }
 
 .headerContainer {
-    background-image: url('../../assets/heromodifiedlanding.png');
+    background-image: url('../../assets/heroModifiedLanding.png');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
