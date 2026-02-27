@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\5\\source\\repos\\task5_\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\css\\animations.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\css\\animations.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|solutionrelative:webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4FA73D3-243E-F8D6-A16F-012D1BCDB882}|task5_.esproj|c:\\users\\5\\source\\repos\\task5_\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Animations.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Animations.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Animations.css",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Cart.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Cart.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Cart.css",
@@ -135,12 +135,11 @@
               "RelativeToolTip": "src\\components\\css\\Cart.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T13:19:38.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:19:38.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
@@ -148,12 +147,11 @@
               "RelativeToolTip": "src\\App.css",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvxoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T13:17:27.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:17:27.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Buttons.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Buttons.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Buttons.css",
@@ -161,12 +159,11 @@
               "RelativeToolTip": "src\\components\\css\\Buttons.css",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T13:17:18.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:17:18.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BannerHeroCss.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\BannerHeroCss.css",
               "RelativeDocumentMoniker": "src\\components\\css\\BannerHeroCss.css",
@@ -174,12 +171,11 @@
               "RelativeToolTip": "src\\components\\css\\BannerHeroCss.css",
               "ViewState": "AgIAABsAAAAAAAAAAADwvyAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T13:15:54.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:15:54.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Headings.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Headings.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Headings.css",
@@ -187,12 +183,11 @@
               "RelativeToolTip": "src\\components\\css\\Headings.css",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAEEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T13:15:20.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:15:20.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Images.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Images.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Images.css",
@@ -200,25 +195,24 @@
               "RelativeToolTip": "src\\components\\css\\Images.css",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T13:14:51.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:14:51.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "webpack.config.js",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\webpack.config.js",
               "RelativeDocumentMoniker": "webpack.config.js",
               "ToolTip": "C:\\Users\\5\\source\\repos\\task5_\\webpack.config.js",
               "RelativeToolTip": "webpack.config.js",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-02-27T13:05:21.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Header.jsx",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\Header.jsx",
               "RelativeDocumentMoniker": "src\\components\\Header.jsx",
@@ -226,12 +220,11 @@
               "RelativeToolTip": "src\\components\\Header.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-27T12:36:17.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T12:36:17.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Containers.css",
               "DocumentMoniker": "C:\\Users\\5\\source\\repos\\task5_\\src\\components\\css\\Containers.css",
               "RelativeDocumentMoniker": "src\\components\\css\\Containers.css",
@@ -239,8 +232,7 @@
               "RelativeToolTip": "src\\components\\css\\Containers.css",
               "ViewState": "AgIAAGAAAAAAAAAAAADwv2oAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T12:36:28.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T12:36:28.125Z"
             },
             {
               "$type": "Document",
@@ -252,8 +244,7 @@
               "RelativeToolTip": "src\\store.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-27T13:03:23.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:03:23.943Z"
             },
             {
               "$type": "Document",
@@ -265,8 +256,7 @@
               "RelativeToolTip": "src\\components\\BannerHero.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-27T13:02:30.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:02:30.002Z"
             },
             {
               "$type": "Document",
@@ -278,8 +268,7 @@
               "RelativeToolTip": "src\\pages\\ShopPage.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-27T13:02:07.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:02:07.102Z"
             },
             {
               "$type": "Document",
@@ -291,8 +280,7 @@
               "RelativeToolTip": "src\\pages\\MainPage.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-27T13:02:04.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:02:04.108Z"
             },
             {
               "$type": "Document",
@@ -304,8 +292,7 @@
               "RelativeToolTip": "src\\components\\Search.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-27T13:01:52.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:01:52.726Z"
             },
             {
               "$type": "Document",
@@ -317,8 +304,7 @@
               "RelativeToolTip": "src\\components\\CardList.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-27T13:01:43.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:01:43.168Z"
             },
             {
               "$type": "Document",
@@ -330,8 +316,7 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-27T12:59:44.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T12:59:44.284Z"
             },
             {
               "$type": "Document",
@@ -343,8 +328,7 @@
               "RelativeToolTip": "package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-27T12:55:31.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T12:55:31.6Z"
             },
             {
               "$type": "Document",
@@ -356,8 +340,7 @@
               "RelativeToolTip": "src\\pages\\CartPage.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-27T12:37:37.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T12:37:37.839Z"
             },
             {
               "$type": "Document",
@@ -369,8 +352,7 @@
               "RelativeToolTip": "src\\App.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-23T15:57:25.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T15:57:25.117Z"
             },
             {
               "$type": "Document",
@@ -382,8 +364,7 @@
               "RelativeToolTip": "src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-23T15:56:48.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T15:56:48.185Z"
             },
             {
               "$type": "Document",
@@ -395,8 +376,7 @@
               "RelativeToolTip": "src\\components\\Card.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-02-25T08:02:03.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T08:02:03.284Z"
             }
           ]
         }
